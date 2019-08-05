@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huanjie Sheng(盛焕杰) / My Personal Site"
+title                    : "Huanjie's Personal Site"
 title_separator          : "-"
 name                     : &name "Huanjie Sheng"
 description              : &description "I'm a Ph.D. graduate from University of California, Berkeley"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Huanjie Sheng(盛焕杰)"
   avatar           : "profile.png"
-  bio              : "Find Me"
+  bio              : "Ph.D. in Integrative Biology, University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7CJbGwkAAAAJ&view_op=list_works&gmla=AJsN-F4tmWhQbL5Jk-nL18x0MenXNdfObK8xKNNOVZH6W-bFOKke_MQ4aygSBvfZQd0jr1ETLZukuorj8vWMoUDEAVC4nj8qGgL36xrBDrnp616wHX5nOWM"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Huanjie_Sheng"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shenghuanjie"
+  github           : "shenghuanjie"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/SHENGHuanjie"
+  twitter          : "SHENGHuanjie"
   vine             :
   weibo            :
   xing             :
