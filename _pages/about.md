@@ -1,16 +1,7 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 About me
 ========
 
 This is Huanjie Sheng's GitHub page!
 
-Nothing is here yet.
+Nothing is here yet. Probably no more will come.
