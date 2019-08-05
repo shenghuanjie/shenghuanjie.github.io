@@ -1,0 +1,15 @@
+---
+title: "Nucleoid and cytoplasmic localization of small RNAs in Escherichia coli"
+collection: publications
+permalink: /publication/2_sRNAs
+date: 2017-01-24
+venue: 'Nucleic acids research'
+paperurl: 'https://academic.oup.com/nar/article-pdf/45/5/2919/16941952/gkx023.pdf'
+citation: 'Sheng, H., Stauffer, W. T., Hussein, R., Lin, C., & Lim, H. N. (2017). &quot;Nucleoid and cytoplasmic localization of small RNAs in Escherichia coli.&quot; <i>Nucleic acids research</i>, 45(5), 2919-2934.'
+---
+
+Bacterial small RNAs (sRNAs) regulate protein production by binding to mRNAs and altering their translation and degradation. sRNAs are smaller than most mRNAs but larger than many proteins. Therefore it is uncertain whether sRNAs can enter the nucleoid to target nascent mRNAs. Here, we investigate the intracellular localization of sRNAs transcribed from plasmids in Escherichia coli using RNA fluorescent in-situ hybridization. We found that sRNAs (GlmZ, OxyS, RyhB and SgrS) have equal preference for the nucleoid and cytoplasm, and no preferential localization at the cell membrane. We show using the gfp mRNA (encoding green fluorescent protein) that non-sRNAs can be engineered to have different proportions of nucleoid and cytoplasmic localization by altering their length and/or translation. The same localization as sRNAs was achieved by decreasing gfp mRNA length and translation, which suggests that sRNAs and other RNAs may enter the densely packed DNA of the nucleoid if they are sufficiently small. We also found that the Hfq protein, which binds sRNAs, minimally affects sRNA localization. Important implications of our findings for engineering synthetic circuits are: (i) sRNAs can potentially bind nascent mRNAs in the nucleoid, and (ii) localization patterns and distribution volumes of sRNAs can differ from some larger RNAs.
+
+[Download paper here](https://academic.oup.com/nar/article/45/5/2919/2948420)
+
+Recommended citation: Sheng, H., Stauffer, W. T., Hussein, R., Lin, C., & Lim, H. N. (2017). &quot;Nucleoid and cytoplasmic localization of small RNAs in Escherichia coli.&quot; <i>Nucleic acids research </i>, 45(5), 2919-2934.
