@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biological Sciences, Peking University, 2014
+* Ph.D in Integrative Biology, University of California at Berkeley, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014-Spring 2019: Graduate Student Instructor
+  * University of California, Berkeley
+  * Courses Taught: Bio 1B (General Biology), IB 115 (Introduction to Systems Biology and Medicine)
+  * Bio 1B is a general introduction to organismal diversity, ecology, and evolutionary biology. It is intended for students majoring in the biological sciences, but it is open to all qualified students.
+  * IB 115 is an introductory course to system biology and mathematical models. It mainly focuses on bacterial systems but also generalize to infectious diseases and medicical research.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills
+  * C/C++
+  * Java
+  * Python
+  * R
+  * Matlab
+  * Mathematica
+  * Bash
+  * ImageJ Macro
+* Experimental Skills
+  * Molecular Biology/Cloning
+  * Fluorescence Microscopy
+  * Bacteria/Yeast Cell Culture
+* Other Skills
+  * Latex
+  * Excel
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
