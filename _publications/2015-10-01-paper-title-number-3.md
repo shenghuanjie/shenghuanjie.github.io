@@ -2,14 +2,14 @@
 title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2018-10-25
+venue: 'Scientific reports'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Stauffer, W., Sheng, H., & Lim, H. N. (2018). &quot;EzColocalization: An ImageJ plugin for visualizing and measuring colocalization in cells and organisms.&quot; <i>Scientific reports</i>, 8(1), 15764.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
+Insight into the function and regulation of biological molecules can often be obtained by determining which cell structures and other molecules they localize with (i.e. colocalization). Here we describe an open source plugin for ImageJ called EzColocalization to visualize and measure colocalization in microscopy images. EzColocalization is designed to be easy to use and customize for researchers with minimal experience in quantitative microscopy and computer programming. Features of EzColocalization include: (i) tools to select individual cells and organisms from images; (ii) filters to select specific types of cells and organisms based on physical parameters and signal intensity; (iii) heat maps and scatterplots to visualize the localization patterns of reporters; (iv) multiple metrics to measure colocalization for two or three reporters; (v) metric matrices to systematically measure colocalization at multiple combinations of signal intensity thresholds; and (vi) data tables that provide detailed information on each cell in a sample. These features make EzColocalization well-suited for experiments with low reporter signal, complex patterns of localization, and heterogeneous populations of cells and organisms.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Stauffer, W., Sheng, H., & Lim, H. N. (2018). &quot;EzColocalization: An ImageJ plugin for visualizing and measuring colocalization in cells and organisms.&quot; <i>Scientific reports</i>, 8(1), 15764.
