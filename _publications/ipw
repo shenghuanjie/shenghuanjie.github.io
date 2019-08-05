@@ -1,0 +1,14 @@
+---
+title: "Systematic and general method for quantifying localization in microscopy images"
+collection: publications
+permalink: /publication/tos
+date: 2016-10-12
+venue: 'Biology open'
+paperurl: 'https://bio.biologists.org/content/biolopen/5/12/1882.full.pdf?with-ds=yes'
+citation: 'Sheng, H., Stauffer, W., & Lim, H. N. (2016). &quot;Systematic and general method for quantifying localization in microscopy images.&quot; <i>Biology open</i>, 5(12), 1882-1893.'
+---
+Quantifying the localization of molecules with respect to other molecules, cell structures and intracellular regions is essential to understanding their regulation and actions. However, measuring localization from microscopy images is often difficult with existing metrics. Here, we evaluate a metric for quantifying localization termed the threshold overlap score (TOS), and show it is simple to calculate, easy to interpret, able to be used to systematically characterize localization patterns, and generally applicable. TOS is calculated by: (i) measuring the overlap of pixels that are above the intensity thresholds for two signals; (ii) determining whether the overlap is more, less, or the same as expected by chance, i.e. colocalization, anti-colocalization, or non-colocalization; and (iii) rescaling to allow comparison at different thresholds. The above is repeated at multiple threshold combinations to generate a TOS matrix to systematically characterize the relationship between localization and signal intensities. TOS matrices were used to identify and distinguish localization patterns of different proteins in various simulations, cell types and organisms with greater specificity and sensitivity than common metrics. For all the above reasons, TOS is an excellent first line metric, particularly for cells with mixed localization patterns.
+
+[Download paper here](https://bio.biologists.org/content/5/12/1882.abstract)
+
+Recommended citation: Sheng, H., Stauffer, W., & Lim, H. N. (2016). &quot;Systematic and general method for quantifying localization in microscopy images.&quot; <i>Biology open</i>, 5(12), 1882-1893.
