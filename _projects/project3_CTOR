@@ -4,4 +4,8 @@ collection: projects
 permalink: /projects/project3_CTOR
 ---
 This work is done together with Siamak Sorooshyari
+img { 
+  width: 50%;
+  height: 50%;
+}
 <br/><img src='/images/projects/CTOR.png'>
