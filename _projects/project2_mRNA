@@ -4,8 +4,4 @@ collection: projects
 permalink: /projects/project2_mRNA
 ---
 This work is done together with Han N. Lim
-img { 
-  width: 50%;
-  height: 50%;
-}
 <br/><img src='/images/projects/mRNA.png' width="450" height="700">
