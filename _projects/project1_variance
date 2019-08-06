@@ -8,4 +8,4 @@ img {
   width: 50%;
   height: 50%;
 }
-<br/><img src='/images/projects/variance.png'>
+<br/><img src='/images/projects/variance.png' width="400" height="600">
