@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biological Sciences, Peking University, 2014
 * Ph.D in Integrative Biology, University of California at Berkeley, 2019
+* B.S. in Biological Sciences, Peking University, 2014
 
 Work experience
 ======
