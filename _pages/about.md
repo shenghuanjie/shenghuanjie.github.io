@@ -13,4 +13,5 @@ About me
 
 This is Huanjie Sheng's GitHub page!
 
-Nothing is here yet. Probably no more will come.
+Currently, I'm a postdoc in Peter Sudmant's lab at UC Berkeley studying gene expression during aging.
+I'm actively looking for new positions starting next year.
