@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* Fall 2014-Spring 2019: Graduate Student Instructor
+* August, 2019-Present: Post-Doctoral Researcher
+  * University of California, Berkeley
+  * Study the change in variance of gene expression during aging
+
+* August, 2014-May, 2019: Graduate Student Instructor
   * University of California, Berkeley
   * Courses Taught: Bio 1B (General Biology), IB 115 (Introduction to Systems Biology and Medicine)
   * Bio 1B is a general introduction to organismal diversity, ecology, and evolutionary biology. It is intended for students majoring in the biological sciences, but it is open to all qualified students.
