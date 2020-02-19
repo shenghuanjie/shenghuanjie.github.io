@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huanjie's Personal Site"
 title_separator          : "-"
 name                     : &name "Huanjie Sheng"
-description              : &description "I'm a Ph.D. graduate from University of California, Berkeley"
+description              : &description "I'm a Senior Data Scientist at Roche Sequencing Solutions, Inc. Santa Clara, CA"
 url                      : https://shenghuanjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shenghuanjie/shenghuanjie.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "shenghuanjie@berkeley.edu"
+    email                : "drhjsheng@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huanjie Sheng(盛焕杰)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in Integrative Biology, University of California, Berkeley"
-  location         : "Berkeley, CA"
+  bio              : "Senior Data Scientist, Bioinformatics. Roche Sequencing Solutions, Inc."
+  location         : "Santa Clara, CA"
   employer         :  
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7CJbGwkAAAAJ&view_op=list_works&gmla=AJsN-F4tmWhQbL5Jk-nL18x0MenXNdfObK8xKNNOVZH6W-bFOKke_MQ4aygSBvfZQd0jr1ETLZukuorj8vWMoUDEAVC4nj8qGgL36xrBDrnp616wHX5nOWM"
-  email            : "shenghuanjie@berkeley.edu"
+  email            : "drhjsheng@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Huanjie_Sheng"
   uri              :
   bitbucket        :
