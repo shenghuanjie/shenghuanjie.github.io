@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* August, 2019-Present: Post-Doctoral Researcher
+* Feburary, 2020-Present: Senior Data Scientist, Bioinformatics
+  * Roche Sequencing Solutions, Inc. Santa Clara, CA
+  * Working on primary bioinformatics data analysis of nanopore sequencing
+* August, 2019-January, 2020: Post-Doctoral Researcher
   * University of California, Berkeley
   * Study the change in variance of gene expression during aging
 
