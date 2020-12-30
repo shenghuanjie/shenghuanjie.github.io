@@ -13,5 +13,4 @@ About me
 
 This is Huanjie Sheng's GitHub page!
 
-Currently, I'm a postdoc in Peter Sudmant's lab at UC Berkeley studying gene expression during aging.
-I'm actively looking for new positions starting next year.
+Currently, I'm a senior data scientist at Roche Sequencing Solutions, Inc. developing nanopore sequencing technologies.
